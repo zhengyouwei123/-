@@ -1,3 +1,5 @@
+方法一：蛮力法
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int l = nums.length;
